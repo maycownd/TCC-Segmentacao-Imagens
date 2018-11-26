@@ -1,0 +1,6 @@
+exec(open("train_unet.py").read())
+exec(open("train_resnet.py").read())
+exec(open("train_unet2.py").read())
+exec(open("train_unet3_conv.py").read())
+exec(open("train_fractal_unet.py").read())
+exec(open("train_segnet.py").read())
